@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="TEST TABLE 2" max_length="40" name="x_snc_sonet_demo_test_table_2" type="collection"/>
+</database>
