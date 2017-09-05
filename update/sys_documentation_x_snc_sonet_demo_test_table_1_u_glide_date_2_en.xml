@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_glide_date_2" label="Date" language="en" table="x_snc_sonet_demo_test_table_1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_glide_date_2</element>
+            <help/>
+            <hint/>
+            <label>Date</label>
+            <language>en</language>
+            <name>x_snc_sonet_demo_test_table_1</name>
+            <plural>Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-05 05:43:15</sys_created_on>
+            <sys_id>983ce98ddb4dc7001872d400cf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Date</sys_name>
+            <sys_package display_value="Sonet Demo" source="x_snc_sonet_demo">5e876909db4dc7001872d400cf96195c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sonet Demo">5e876909db4dc7001872d400cf96195c</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_sonet_demo_test_table_1_u_glide_date_2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-05 05:43:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
